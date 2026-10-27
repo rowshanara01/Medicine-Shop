@@ -54,7 +54,7 @@ your-repo-name/
 └── README.md
 ```
 
-## Contributing ##
+#### Contributing ####
 
 Contributions, issues and feature requests are welcome. Feel free to open an issue or submit a pull request.
 

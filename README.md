@@ -25,7 +25,7 @@ Write a short overview of what this project does and why it exists.
 - [Node.js](https://nodejs.org/) (v16 or later)
 - npm or yarn
 
-### Installation
+### Installation ###
 
 ```bash
 # Clone the repository

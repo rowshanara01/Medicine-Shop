@@ -38,7 +38,7 @@ cd your-repo-name
 npm install
 ```
 
-### Run the project
+### Run the project ###
 
 ```bash
 npm start

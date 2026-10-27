@@ -10,7 +10,7 @@
 
 Write a short overview of what this project does and why it exists.
 
-## Tech Stack@@
+## Tech Stack ##
 
 | Language   | Share  |
 |------------|--------|

@@ -34,7 +34,7 @@ git clone https://github.com/rowshanara01/your-repo-name.git
 # Go to the project folder
 cd your-repo-name
 
-# Install dependencies #
+## Install dependencies ##
 npm install
 ```
 

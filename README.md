@@ -18,7 +18,7 @@ Write a short overview of what this project does and why it exists.
 | CSS        | 5.8%   |
 | HTML       | 4%     |
 
-## Getting Started
+## Getting Started ##
 
 ### Prerequisites
 

@@ -31,7 +31,7 @@ Write a short overview of what this project does and why it exists.
 # Clone the repository
 git clone https://github.com/rowshanara01/your-repo-name.git
 
-# Go to the project folder
+# Go to the project folder #
 cd your-repo-name
 
 ## Install dependencies ##
